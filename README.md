@@ -23,7 +23,7 @@ To get started with Connect4-AI-Agent, follow these steps:
 
 2. **Run the Game**
    ```sh
-   python ConnectFour.py ai human
+   python3 ConnectFour.py ai human
    ```
 
 ## Usage
